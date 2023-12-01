@@ -1,8 +1,15 @@
+/**
+ * @author nicolas
+ */
 import cucumber.api.PendingException;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
+
+/**
+ * @class uma classe para tratar os erros apartir da abordagem BDD.
+ */
 public class Conta {
 	@Given("^Um cliente especial com saldo atual de -(\\d+) reais$")
 	public void um_cliente_especial_com_saldo_atual_de_reais(int arg1) throws Throwable {
