@@ -22,6 +22,8 @@ em suas especificações Gherkin.
 ## Reproduzir Cenários. 
 
 No arquivo "arquivo_teste.feature, criamos os cenários respectivos para realizar os testes nescessários dentro do sistema. Além de colocar as informações do projeto.
+
+
 ![image](https://github.com/NicolasSegat0/Conta_Bancaria_BDD/assets/100158925/59ba5c1b-d52b-4f05-84d2-01c650b93dc1)
 
 
