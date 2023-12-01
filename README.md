@@ -26,6 +26,27 @@ No arquivo "arquivo_teste.feature, criamos os cenários respectivos para realiza
 
 ![image](https://github.com/NicolasSegat0/Conta_Bancaria_BDD/assets/100158925/59ba5c1b-d52b-4f05-84d2-01c650b93dc1)
 
+## Classe Conta 
+
+Na pasta "src/main/java", está uma classe chamada "Conta.java" com a indicação do Cucumber durante o processo de documentação da classe a IDE irá indicar informações que devem ser utilizadas para conter no documento.
+
+
+![image](https://github.com/NicolasSegat0/Conta_Bancaria_BDD/assets/100158925/9862a9e3-cb57-44dc-ad5f-d687594d40a0)
+
+## Classe Runner 
+
+Para rodar o projeto, é utilizado a classe "Runner.java". Foi utilizado a dependência "Cucumber JVM: Junit", com ela poderemos utilizar um classe para rodar e testar o projeto. 
+Está classe irá conter um simples código, conforme a figura abaixo:
+
+
+![image](https://github.com/NicolasSegat0/Conta_Bancaria_BDD/assets/100158925/98a482b1-511d-44ef-aa2c-f243451ce2ea)
+
+O Runner é responsável por executar os testes em uma classe de teste específica e gerar relatórios dos resultados.
+
+## Resultado
+
+
+![image](https://github.com/NicolasSegat0/Conta_Bancaria_BDD/assets/100158925/386450be-f760-4ad3-847e-62142f5fdb39)
 
 
 
